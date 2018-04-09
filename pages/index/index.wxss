@@ -11,3 +11,28 @@
   top: 0;
   left: 0;
 }
+.r-item {
+  width: 70rpx;
+  height: 70rpx;
+  margin-top: 30rpx;
+  display: block;
+}
+.right {
+  position: absolute;
+  right: 80rpx;
+  bottom: 130rpx;
+
+}
+.phone {
+  position: absolute;
+  bottom: 110rpx;
+  left: 50%;
+  transform: translateX(-50%);
+  line-height: 30rpx;
+}
+.phone image {
+  width: 28rpx;
+  height: 29rpx;
+  display: inline-block;
+  vertical-align: top;
+}

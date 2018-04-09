@@ -1,4 +1,13 @@
 <!--index.wxml-->
 <view class='bg'>
   <image src='/images/bg.jpg' class='bg-img'></image>
+  <view class='right'>
+    <image src='/images/i.png' class='r-item'></image>
+    <image src='/images/wx.png' class='r-item'></image>
+    <image src='/images/heart.png' class='r-item'></image>
+  </view>
+  <view class='phone'>
+    <image src='/images/phone.png'></image>
+    邓先生15889318319
+  </view>
 </view>
