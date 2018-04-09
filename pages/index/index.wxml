@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class='bg'>
+  <image src='/images/bg.jpg' class='bg-img'></image>
+</view>
